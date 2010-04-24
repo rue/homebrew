@@ -4,3 +4,5 @@
 !/README.md
 !/bin/brew
 .DS_Store
+
+*.swp
